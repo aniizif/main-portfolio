@@ -33,7 +33,7 @@
 ## 🧩 Как использовать
 
 ```bash
-git clone --recurse-submodules https://github.com/yourusername/devops-portfolio.git
+git clone --recurse-submodules https://github.com/aniizif/main-portfolio.git
 ```
 
 > 💡 P.S. Я продолжаю развиваться и дополнять этот репозиторий.

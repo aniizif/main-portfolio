@@ -1,0 +1,18 @@
+[submodule "loadbalancer-ansible"]
+	path = loadbalancer-ansible
+	url = git@github.com:aniizif/loadbalancer-ansible.git
+[submodule "nginx-flask-gunicorn"]
+	path = nginx-flask-gunicorn
+	url = git@github.com:aniizif/nginx-flask-gunicorn.git
+[submodule "net_diagnostic"]
+	path = net_diagnostic
+	url = git@github.com:aniizif/net_diagnostic.git
+[submodule "disk_monitor"]
+	path = disk_monitor
+	url = git@github.com:aniizif/disk_monitor.git
+[submodule "linux-user-permissions"]
+	path = linux-user-permissions
+	url = git@github.com:aniizif/linux-user-permissions.git
+[submodule "linux-sysinfo"]
+	path = linux-sysinfo
+	url = git@github.com:aniizif/linux-sysinfo.git

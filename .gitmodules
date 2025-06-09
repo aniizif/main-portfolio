@@ -16,3 +16,6 @@
 [submodule "linux-sysinfo"]
 	path = linux-sysinfo
 	url = git@github.com:aniizif/linux-sysinfo.git
+[submodule "flask-infra-stack"]
+	path = flask-infra-stack
+	url = https://github.com/aniizif/flask-infra-stack.git

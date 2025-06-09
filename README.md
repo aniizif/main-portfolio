@@ -14,6 +14,7 @@
 | **Сетевые технологии и TCP/IP**| Модели OSI/TCP-IP, netstat, ping, traceroute, iptables, NAT, DNS, DHCP     |
 | **Контейнеризация (Docker)**   | Dockerfile, docker-compose, Volumes, Networks, Registry                    |
 | **Инфраструктура как код (IaC)** | Введение в Ansible, базовые playbook-и                                     |
+| **Мониторинг и логи**| Prometheus, Grafana                                                                    |
 
 ## 📁 Проекты
 
@@ -21,6 +22,7 @@
 
 | Название проекта                              | Описание                                         |
 |-----------------------------------------------|--------------------------------------------------|
+|[Flask Monitoring Project](https://github.com/aniizif/flask-infra-stack.git) | Проект представляет собой простой веб-сервис на Flask с мониторингом через Prometheus и визуализацией метрик в Grafana. |
 | [Ansible + Nginx](https://github.com/aniizif/loadbalancer-ansible.git)| Балансировщик нагрузки + Веб-серверы + Vagrant         |
 | [Network Inspector](https://github.com/aniizif/net_diagnostic.git)        | Практика с сетевыми утилитами, конфигурации     |
 | [Docker + Reverse proxy](https://github.com/aniizif/nginx-flask-gunicorn.git)              | Flask + Gunicorn + Nginx in Docker |
